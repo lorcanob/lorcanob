@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorcan</h1>
-<h3 align="center">I'm Lorcan, a London-raised, Tokyo-based engineer with a focus in Deep Learning.</h3>
+<h3 align="center">A London-raised, Tokyo-based engineer with a focus in Deep Learning.</h3>
 
 - 🔭 I’m currently working on an exoplanet identifier model [ExoHunter](https://github.com/Awle/exo-hunter)
 
